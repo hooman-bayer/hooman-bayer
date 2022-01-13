@@ -12,7 +12,8 @@ You can click the Preview link to take a look at your changes.
 ✍️ &nbsp;In my free time, I like solving puzzles and do compatitive porgramming.\
 📫 &nbsp;How to reach me https://hooman650.github.io/
 
-<p><img align="right" src="./giphy.gif" alt="Bear coder" /></p>
+<p><img align="right" src="./giphy.gif" alt="Bear coder" /></p>\
+
 
 ### 🛠 &nbsp;Tech Stack
 
