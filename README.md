@@ -7,7 +7,7 @@ You can click the Preview link to take a look at your changes.
 <!-- ## 👋 &nbsp;Hey there! I'm Hooman -->
 
 ### 👨🏻‍💻 &nbsp;About Me
-💡 &nbsp;I like to explore new technologies related to ML, AI and build cool products.\
+💡 &nbsp;I like to explore new technologies related to ML, Signal processing and DeepLearning and build cool products.\
 🌱 &nbsp;I'm a senior lead data scientist.\
 ✍️ &nbsp;In my free time, I like solving puzzles and do compatitive porgramming.\
 📫 &nbsp;How to reach me https://hooman650.github.io/
@@ -22,6 +22,10 @@ You can click the Preview link to take a look at your changes.
 ### 🛠 &nbsp;Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
