@@ -13,8 +13,7 @@ You can click the Preview link to take a look at your changes.
 📫 &nbsp;How to reach me https://hooman650.github.io/
 
 
-<p><img align="right" src="./giphy.gif" alt="Bear coder" /></p>
-
+<img alt="Bear coder" src="./giphy.gif" align="right"/>
 <br>
 
 
