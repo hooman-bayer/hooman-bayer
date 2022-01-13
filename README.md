@@ -7,14 +7,12 @@ You can click the Preview link to take a look at your changes.
 <!-- ## 👋 &nbsp;Hey there! I'm Hooman -->
 
 ### 👨🏻‍💻 &nbsp;About Me
-
 💡 &nbsp;I like to explore new technologies related to ML, AI and build cool products.\
 🌱 &nbsp;I'm a senior lead data scientist.\
 ✍️ &nbsp;In my free time, I like solving puzzles and do compatitive porgramming.\
 📫 &nbsp;How to reach me https://hooman650.github.io/
 
-
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+<img alt="Cool Coding" src="https://giphy.com/embed/1GEATImIxEXVR79Dhk" align="right"/>
 
 ### 🛠 &nbsp;Tech Stack
 
