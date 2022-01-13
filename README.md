@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 ✍️ &nbsp;In my free time, I like solving puzzles and do compatitive porgramming.\
 📫 &nbsp;How to reach me https://hooman650.github.io/
 
-<iframe src="https://giphy.com/embed/1GEATImIxEXVR79Dhk" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/salesforce-bear-computer-work-from-home-1GEATImIxEXVR79Dhk">via GIPHY</a></p>
+<p><img align="right" src="https://giphy.com/embed/1GEATImIxEXVR79Dhk" alt="Bear coder" /></p>
 
 ### 🛠 &nbsp;Tech Stack
 
