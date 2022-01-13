@@ -9,7 +9,7 @@ You can click the Preview link to take a look at your changes.
 ### 👨🏻‍💻 &nbsp;About Me
 💡 &nbsp;I like to explore new technologies related to ML, Signal processing and DeepLearning and build cool products.\
 🌱 &nbsp;I'm a senior lead data scientist.\
-✍️ &nbsp;In my free time, I like solving puzzles and do compatitive porgramming.\
+✍️ &nbsp;In my free time, I like playing football, solving puzzles and do competitive programming.\
 📫 &nbsp;How to reach me https://hooman650.github.io/
 
 
