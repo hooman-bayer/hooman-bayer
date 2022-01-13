@@ -14,6 +14,7 @@ You can click the Preview link to take a look at your changes.
 
 
 <img alt="Bear coder" src="./giphy.gif" align="right"/>
+
 <br>
 
 
@@ -34,6 +35,8 @@ You can click the Preview link to take a look at your changes.
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255);
 
+<br>
+
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
@@ -42,6 +45,8 @@ You can click the Preview link to take a look at your changes.
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hooman650&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
+
+<br>
 
 ### 🤝🏻 &nbsp;Connect with Me
 
